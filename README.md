@@ -5,4 +5,4 @@
 
 </br>
 
-![대체텍스트](./Images/Images/image1.jpg)
+![설명1](./Images/image1.jpg)
